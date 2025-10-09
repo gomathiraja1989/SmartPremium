@@ -10,22 +10,6 @@
 
 A comprehensive machine learning project that predicts insurance premiums based on customer characteristics and policy details. This end-to-end solution includes data analysis, model training, MLflow experiment tracking, and a Streamlit web application for real-time predictions.
 
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Quick Start](#-quick-start)
-- [Usage](#-usage)
-- [Model Performance](#-model-performance)
-- [Technical Architecture](#-technical-architecture)
-- [Results](#-results)
-- [MLflow Tracking](#-mlflow-tracking)
-- [Streamlit App](#-streamlit-app)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ## 🎯 Overview
 
 Insurance companies use various factors such as **age**, **income**, **health status**, and **claim history** to estimate premiums for customers. This project builds a **machine learning model** that accurately predicts **insurance premiums** based on customer characteristics and policy details.
@@ -160,4 +144,5 @@ Demographic Groups: Age categories, Income brackets
 Risk Flags: Young driver, Senior citizen, Poor health
 
 Encoding: Label encoding for categorical variables
+
 ```
