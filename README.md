@@ -83,7 +83,7 @@ mini_project-4/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mini_project-4.git
+git clone https://github.com/gomathiraja1989/mini_project-4.git
 cd mini_project-4
 ```
 
@@ -146,3 +146,4 @@ Risk Flags: Young driver, Senior citizen, Poor health
 Encoding: Label encoding for categorical variables
 
 ```
+
