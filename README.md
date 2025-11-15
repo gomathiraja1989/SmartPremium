@@ -52,7 +52,7 @@ Insurance companies use various factors such as **age**, **income**, **health st
 ## 📁 Project Structure
 
 ```text
-mini_project-4/
+SmartPremium/
 ├─ data/
 │  ├─ train.csv                    
 │  ├─ test.csv                     
@@ -83,8 +83,8 @@ mini_project-4/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/gomathiraja1989/mini_project-4.git
-cd mini_project-4
+git clone https://github.com/gomathiraja1989/SmartPremium.git
+cd SmartPremium
 ```
 
 ### Step 2: Install the Dependencies
@@ -146,4 +146,5 @@ Risk Flags: Young driver, Senior citizen, Poor health
 Encoding: Label encoding for categorical variables
 
 ```
+
 
